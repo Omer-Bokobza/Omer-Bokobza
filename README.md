@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Automation
 - 🧑‍💼 Thats my LinkedIn - https://www.linkedin.com/in/omer-bokobza-753076204/
 - 👾 Skills: Java / Python / C++ / HTML / IBM – personal communications / Git / Docker / Linux command line
-- 👾 Automation Skills: Selenium / Playwright
+- 👾 Automation Skills: Selenium / Playwright / RestAPI
 - 💣 Hobbies - Bowling, Gaming,
